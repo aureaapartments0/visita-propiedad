@@ -1,0 +1,18 @@
+AUREA — CORRECCIÓN DE IMÁGENES Y DIRECCIÓN
+
+1. Descomprime este ZIP.
+2. En tu repositorio, Add file > Upload files.
+3. Sube index.html a la raíz y pulsa Commit changes para actualizar el anterior.
+4. Si ya tenías GitHub Pages publicado desde main / (root), la actualización se publica en la misma dirección al completarse el despliegue.
+
+El nuevo index.html contiene el logo, la fotografía, las imágenes de los métodos, los estilos y el código de la página. Ya no depende de la carpeta assets ni de los archivos CSS/JS separados. Los archivos antiguos pueden quedarse en el repositorio: esta versión no los necesita.
+
+El campo ahora pide únicamente Dirección de la propiedad, con el ejemplo Dirección completa de la propiedad. El nombre interno property se conserva para ser compatible con tu plantilla de EmailJS.
+
+Se conserva tu configuración de EmailJS y el correo no aparece en la página. EmailJS sigue necesitando conexión a Internet. La plantilla que instalaste anteriormente sigue siendo compatible.
+
+La captura muestra imágenes no disponibles, pero no permite confirmar la causa exacta. Esta versión elimina la dependencia de las rutas de esas imágenes.
+
+Fotografía ambiental de referencia de Andy Bob / hioozlight en Unsplash, no corresponde a una propiedad ofertada:
+https://unsplash.com/photos/modern-living-room-with-beige-sofa-and-contemporary-lamp-e29s9vkVUIg
+https://unsplash.com/license
